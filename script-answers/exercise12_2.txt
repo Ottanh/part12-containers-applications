@@ -1,0 +1,13 @@
+Script started on 2022-08-29 02:39:04+03:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="136" LINES="72"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;ottanh@DESKTOP-C5PDDF6: /mnt/c/Users/35850[01;32mottanh@DESKTOP-C5PDDF6[00m:[01;34m/mnt/c/Users/35850[00m$ docker run -it ubuntu bash
+[?2004l[?2004h]0;root@bcb80f98e55f: /root@bcb80f98e55f:/# [K]0;root@bcb80f98e55f: /root@bcb80f98e55f:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@bcb80f98e55f: /root@bcb80f98e55f:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@bcb80f98e55f: /root@bcb80f98e55f:/# [Kexit
+[?2004lexit
+[?2004h]0;ottanh@DESKTOP-C5PDDF6: /mnt/c/Users/35850[01;32mottanh@DESKTOP-C5PDDF6[00m:[01;34m/mnt/c/Users/35850[00m$ exit
+[?2004lexit
+
+Script done on 2022-08-29 02:39:56+03:00 [COMMAND_EXIT_CODE="0"]

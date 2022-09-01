@@ -1,0 +1,17 @@
+PUT http://localhost:3000/todos/630fe4fb2401094f3cc3e7bf
+Content-Type: application/json
+
+{
+  "text": "new",
+  "done": false
+}
+
+#############################
+
+POST http://localhost:3000/todos/
+Content-Type: application/json
+
+{
+  "text": "new2",
+  "done": false
+}
